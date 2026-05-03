@@ -145,7 +145,7 @@ export default function ContactPage() {
                 <MapPin className="w-6 h-6 mr-4 text-primary mt-1" />
                 <div>
                   <h3 className="font-semibold text-lg">Headquarters</h3>
-                  <p className="text-muted-foreground">123 Coal City Boulevard<br />Metropolis, MC 10012</p>
+                  <p className="text-muted-foreground">Plot No.-2069, 2071, 2072, Kurmidih, Govindpur,<br />Nagnagar, Dhanbad, Jharkhand – 826004 (India)</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -159,7 +159,7 @@ export default function ContactPage() {
                 <Mail className="w-6 h-6 mr-4 text-primary mt-1" />
                 <div>
                   <h3 className="font-semibold text-lg">Email</h3>
-                  <p className="text-muted-foreground">rahulss0014@gmail.com</p>
+                  <p className="text-muted-foreground">coalcapital369@zohomail.in</p>
                 </div>
               </div>
             </div>

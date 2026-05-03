@@ -318,7 +318,7 @@ export default function PropertyDetailsPage() {
                   <div className="bg-muted p-2 rounded-full"><Mail className="w-4 h-4" /></div>
                   <div>
                     <p className="text-sm text-muted-foreground">Email us</p>
-                    <p className="font-semibold">rahulss0014@gmail.com</p>
+                    <p className="font-semibold">coalcapital369@zohomail.in</p>
                   </div>
                 </div>
               </div>
